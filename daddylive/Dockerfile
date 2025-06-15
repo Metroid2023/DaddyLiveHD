@@ -10,7 +10,7 @@ RUN apt-get update && apt-get install -y \
     libssl-dev \
     && rm -rf /var/lib/apt/lists/*
 
-RUN git clone https://github.com/pigzillaaaaa/daddylive .
+RUN git clone https://github.com/Metroid2023/DaddyLiveHD .
 
 RUN pip install flask curl-cffi m3u8 gunicorn
 
