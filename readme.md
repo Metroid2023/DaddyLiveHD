@@ -15,7 +15,7 @@ Note: To update the proxy for new changes, click on **Settings** then click on *
 ## docker-compose
 1. Clone the repository
    ```bash
-   git clone https://github.com/pigzillaaaaa/daddylive
+   git clone https://github.com/Metroid2023/DaddyLiveHD
    cd daddylive
    ```
 2. Launch the service:
