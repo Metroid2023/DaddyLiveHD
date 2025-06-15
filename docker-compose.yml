@@ -1,7 +1,0 @@
-services:
-  dproxy:
-    build: .
-    container_name: dproxy
-    ports:
-      - "50030:50030"
-    restart: unless-stopped
