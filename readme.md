@@ -25,8 +25,8 @@ Note: To update the proxy for new changes, click on **Settings** then click on *
 3. Visit the proxy at:
    ```text
    http://localhost:7860  
-4. Channels playlist is accessible via: **http://localhost:7860/playlist/channels**. (Refresh playlist from your iptv player to update)</br>
-   Events playlist is accessible via: **http://localhost:7860/playlist/events**. (Refresh playlist from your iptv player to update)
+4. Channels playlist is accessible via: **http://localhost:50030/playlist/channels**. (Refresh playlist from your iptv player to update)</br>
+   Events playlist is accessible via: **http://localhost:50030/playlist/events**. (Refresh playlist from your iptv player to update)
 5. Enjoy! (For arm cpus, visit https://github.com/pigzillaaaaa/daddylive/issues/10)
 
 
