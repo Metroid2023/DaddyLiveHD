@@ -14,6 +14,6 @@ RUN git clone https://github.com/pigzillaaaaa/daddylive .
 
 RUN pip install flask curl-cffi m3u8 gunicorn
 
-EXPOSE 7860
+EXPOSE 50030
 
 CMD ["gunicorn", "--workers", "5", "--worker-class", "gthread", "--threads", "4", "--bind", "0.0.0.0:7860", "proxy:app"]
