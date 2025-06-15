@@ -1,0 +1,7 @@
+services:
+  dproxy:
+    build: .
+    container_name: dproxy
+    ports:
+      - "7860:7860"
+    restart: unless-stopped
