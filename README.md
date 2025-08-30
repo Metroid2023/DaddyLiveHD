@@ -1,6 +1,6 @@
 To use the playlist files, you need to use "m3u-playlist-proxy"
 
-1. First, download "m3u-playlist-proxy" from this page.
+1. Go here: First, http://drewlive24.duckdns.org:4123/ 
 2. On the "m3u-playlist-proxy" page, fill in the info for playlist.m3u and add the required headers.
 
 ### Standard Playlist Information
