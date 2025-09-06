@@ -12,6 +12,6 @@ This is a standard M3U playlist. To use it, ensure your IPTV application support
 - **English Only:** `https://tinyurl.com/skdc4vsv`
 
 #### Required Headers
-- **Referer:** `https://jxoplay.xyz/`
-- **Origin:** `https://jxoplay.xyz`
+- **Referer:** `https://jxoxkplay.xyz/`
+- **Origin:** `https://jxoxkplay.xyz`
 - **User-Agent:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36`
