@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/pigzillaaa/daddylive/raw/refs/heads/main/epgs/daddylive-channels-epg.xml"
+#EXTM3U url-tvg="https://github.com/nightah/daddylive/raw/refs/heads/main/epgs/daddylive-channels-epg.xml"
 
 #EXTINF:-1 group-title="SPAIN" tvg-id="M+.Vamos.es" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/vamos.png",#Vamos Spain
 
