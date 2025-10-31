@@ -9,7 +9,7 @@ To use the playlist files, you need to use "m3u-playlist-proxy"
 This is a standard M3U playlist. To use it, ensure your IPTV application supports custom headers, specifically `Referer`, `Origin`, and `User-Agent`. These headers are required to access the streams, and omitting them will result in a 403 error.
 
 #### Playlist URLs
-- **English Only:** `https://tinyurl.com/4rd452ut`
+- **English Only:** `https://tinyurl.com/3m9k7hvr`
 
 #### Required Headers
 - **Referer:** `https://newzar.xyz/`
