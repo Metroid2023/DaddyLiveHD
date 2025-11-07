@@ -10,6 +10,7 @@ This is a standard M3U playlist. To use it, ensure your IPTV application support
 
 #### Playlist URLs
 - **English Only:** `https://tinyurl.com/35hnw6dj`
+- **Playlist-2:**   `https://tinyurl.com/yc8eth5n`
 
 #### Required Headers
 - **Referer:** `https://epicplayplay.cfd/`
