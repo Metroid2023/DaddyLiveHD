@@ -1,0 +1,146 @@
+#EXTINF:-1 group-title="CANADA" tvg-id="CBC.(CBLT).Toronto,.ON.ca" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cbc.png",CBC Canada
+
+#EXT-X-KEY:METHOD=AES-128,URI="https://top2.newkso.ru/wmsxx.php?test=true&name=premium832&number=5879446",IV=0x3030303030303030303030306921f7cc,KEYFORMAT="identity"
+#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
+#EXTVLCOPT:http-origin=https://epicplayplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.giokko.ru/dokko1/premium832/mono.css
+
+#EXTINF:-1  tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" group-title="DaddyLive USA",Cartoon Network
+
+#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
+#EXTVLCOPT:http-origin=https://epicplayplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.giokko.ru/nfs/premium339/mono.css
+
+#EXTINF:-1  tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="DaddyLive USA",Cinemax USA
+#EXT-X-KEY:METHOD=AES-128,URI="https://top2.newkso.ru/wmsxx.php?test=true&name=premium374&number=5879843",IV=0x3030303030303030303030306923c907,KEYFORMAT="identity"
+#EXTVLCOPT:http-origin=https://epicplayplay.cfd
+#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.giokko.ru/zeko/premium374/mono.css
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Discovery.Family.Channel.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/discovery-family.png",Discovery Family
+#EXT-X-KEY:METHOD=AES-128,URI="https://top2.newkso.ru/wmsxx.php?test=true&name=premium657&number=5878042",IV=0x303030303030303030303030691b8a7d,KEYFORMAT="identity"
+#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
+#EXTVLCOPT:http-origin=https://epicplayplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.giokko.ru/dokko1/premium657/mono.css
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/disney-junior.png",Disney JR
+#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
+#EXTVLCOPT:http-origin=https://epicplayplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.giokko.ru/nfs/premium652/mono.css
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/disney-xd.png",Disney XD
+#EXT-X-KEY:METHOD=AES-128,URI="https://top2.newkso.ru/wmsxx.php?test=true&name=premium314&number=5878042",IV=0x303030303030303030303030691b8a77,KEYFORMAT="identity"
+#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
+#EXTVLCOPT:http-origin=https://epicplayplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.giokko.ru/zeko/premium314/mono.css
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/hbo-comedy-us.png",HBO Comedy USA
+#EXT-X-KEY:METHOD=AES-128,URI="https://top2.newkso.ru/wmsxx.php?test=true&name=premium690&number=5878042",IV=0x303030303030303030303030691b8a80,KEYFORMAT="identity"
+#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
+#EXTVLCOPT:http-origin=https://epicplayplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.giokko.ru/nfs/premium690/mono.css
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="HBO.Drama.(HBO.3).-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/hbo-drama-us.png",HBO Drama USA
+#EXT-X-KEY:METHOD=AES-128,URI="https://top2.newkso.ru/wmsxx.php?test=true&name=premium693&number=5878063",IV=0x303030303030303030303030691ba31c,KEYFORMAT="identity"
+#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
+#EXTVLCOPT:http-origin=https://epicplayplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.giokko.ru/nfs/premium693/mono.css
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/hbo-usa.png",HBO USA
+#EXT-X-KEY:METHOD=AES-128,URI="https://top2.newkso.ru/wmsxx.php?test=true&name=premium321&number=5878063",IV=0x303030303030303030303030691ba315,KEYFORMAT="identity"
+#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
+#EXTVLCOPT:http-origin=https://epicplayplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.giokko.ru/zeko/premium321/mono.css
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="HBO.Movies.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/hbo-movies-usa.png",HBO Movies USA
+#EXT-X-KEY:METHOD=AES-128,URI="https://top2.newkso.ru/wmsxx.php?test=true&name=premium694&number=5878063",IV=0x303030303030303030303030691ba312,KEYFORMAT="identity"
+#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
+#EXTVLCOPT:http-origin=https://epicplayplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.giokko.ru/nfs/premium694/mono.css
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="HBO.Hits.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/hbo-hits-usa.png",HBO Hits USA
+#EXT-X-KEY:METHOD=AES-128,URI="https://top2.newkso.ru/wmsxx.php?test=true&name=premium689&number=5878063",IV=0x303030303030303030303030691ba319,KEYFORMAT="identity"
+#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
+#EXTVLCOPT:http-origin=https://epicplayplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.giokko.ru/nfs/premium689/mono.css
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Nicktoons.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nicktoons.png",Nicktoons
+#EXT-X-KEY:METHOD=AES-128,URI="https://top2.newkso.ru/wmsxx.php?test=true&name=premium649&number=5878063",IV=0x303030303030303030303030691ba314,KEYFORMAT="identity"
+#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
+#EXTVLCOPT:http-origin=https://epicplayplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.giokko.ru/dokko1/premium649/mono.css
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-2-usa.png",Showtime 2 USA (SHO2) USA
+#EXT-X-KEY:METHOD=AES-128,URI="https://top2.newkso.ru/wmsxx.php?test=true&name=premium792&number=5878064",IV=0x303030303030303030303030691ba43f,KEYFORMAT="identity"
+#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
+#EXTVLCOPT:http-origin=https://epicplayplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.giokko.ru/zeko/premium792/mono.css
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.Extreme.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-extreme-usa.png",Showtime Extreme USA
+#EXT-X-KEY:METHOD=AES-128,URI="https://top2.newkso.ru/wmsxx.php?test=true&name=premium794&number=5878064",IV=0x303030303030303030303030691ba445,KEYFORMAT="identity"
+#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
+#EXTVLCOPT:http-origin=https://epicplayplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.giokko.ru/nfs/premium794/mono.css
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.FamilyZone.(East).(SHOFe).us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-family-zone-usa.png",Showtime Family Zone (SHO Family Zone) USA
+#EXT-X-KEY:METHOD=AES-128,URI="https://top2.newkso.ru/wmsxx.php?test=true&name=premium795&number=5878064",IV=0x303030303030303030303030691ba43d,KEYFORMAT="identity"
+#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
+#EXTVLCOPT:http-origin=https://epicplayplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.giokko.ru/nfs/premium795/mono.css
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-next-usa.png",Showtime Next (SHO Next) USA
+#EXT-X-KEY:METHOD=AES-128,URI="https://top2.newkso.ru/wmsxx.php?test=true&name=premium796&number=5878064",IV=0x303030303030303030303030691ba441,KEYFORMAT="identity"
+#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
+#EXTVLCOPT:http-origin=https://epicplayplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.giokko.ru/nfs/premium796/mono.css
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.Showcase.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-showcase-usa.png",Showtime Showcase USA
+#EXT-X-KEY:METHOD=AES-128,URI="https://top2.newkso.ru/wmsxx.php?test=true&name=premium793&number=5878064",IV=0x303030303030303030303030691ba43a,KEYFORMAT="identity"
+#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
+#EXTVLCOPT:http-origin=https://epicplayplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.giokko.ru/zeko/premium793/mono.css
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-usa.png",Showtime USA
+#EXT-X-KEY:METHOD=AES-128,URI="https://top2.newkso.ru/wmsxx.php?test=true&name=premium333&number=5878064",IV=0x303030303030303030303030691ba43f,KEYFORMAT="identity"
+#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
+#EXTVLCOPT:http-origin=https://epicplayplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.giokko.ru/wind/premium333/mono.css
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.Women.HD.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-women-usa.png",Showtime Women USA
+#EXT-X-KEY:METHOD=AES-128,URI="https://top2.newkso.ru/wmsxx.php?test=true&name=premium797&number=5878064",IV=0x303030303030303030303030691ba439,KEYFORMAT="identity"
+#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
+#EXTVLCOPT:http-origin=https://epicplayplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.giokko.ru/dokko1/premium797/mono.css
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="TMC.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tmc-channel-usa.png",TMC Channel USA
+#EXT-X-KEY:METHOD=AES-128,URI="https://top2.newkso.ru/wmsxx.php?test=true&name=premium698&number=5878065",IV=0x303030303030303030303030691ba574,KEYFORMAT="identity"
+#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
+#EXTVLCOPT:http-origin=https://epicplayplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.giokko.ru/dokko1/premium698/mono.css
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="TeenNick.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/teennick-us.png",TeenNick
+#EXT-X-KEY:METHOD=AES-128,URI="https://top2.newkso.ru/wmsxx.php?test=true&name=premium650&number=5878043",IV=0x303030303030303030303030691b8b9e,KEYFORMAT="identity"
+#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
+#EXTVLCOPT:http-origin=https://epicplayplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.giokko.ru/dokko1/premium650/mono.css
