@@ -1,7 +1,6 @@
 To use the playlist files, you need to use "m3u-playlist-proxy"
-1. First, go here to encrypt the channels: https://tinyurl.com/y263mcke
-2. Next, download M3U Playlist Proxy and follow the directions on the read me. 
-3. On the "m3u-playlist-proxy" page, fill in the info for playlist.m3u and add the required headers.
+1. Next, download M3U Playlist Proxy and follow the directions on the read me. 
+2. On the "m3u-playlist-proxy" page, fill in the info for playlist.m3u and add the required headers.
 
 ### Standard Playlist Information
 
