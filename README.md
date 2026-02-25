@@ -10,7 +10,7 @@ This is a standard M3U playlist. To use it, ensure your IPTV application support
 #### Playlist URLs
 - **English Only:** `https://tinyurl.com/575y8ku4`
 
-- **Test:** `https://tinyurl.com/ybb33cb2`
+- **Test:** `https://tinyurl.com/mw8x6866`
 
 #### Required Headers
 - **Referer:** `https://www.ksohls.ru/`
