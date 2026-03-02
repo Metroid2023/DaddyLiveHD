@@ -10,11 +10,11 @@ This is a standard M3U playlist. To use it, ensure your IPTV application support
 #### Playlist URLs
 - **English Only:** `https://tinyurl.com/575y8ku4`
 
-- **Test:** `https://tinyurl.com/mw8x6866`
+- **Test:** `https://tinyurl.com/2pxrw9ja`
 
 #### Required Headers
-- **Referer:** `https://www.ksohls.ru/`
-- **Origin:** `https://www.ksohls.ru`
+- **Referer:** `https://enviromentalspace.cyou/`
+- **Origin:** `https://enviromentalspace.cyou`
 - **User-Agent:** `Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1`
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - To use dlhd playlist, you need EasyProxy to make it work: https://github.com/stremio-manager/EasyProxy
