@@ -1,5 +1,3 @@
-Only playlist-2-headers.m3u8 works for now!
-
 To use the playlist files, you need to use "m3u-playlist-proxy"
 1. Next, download M3U Playlist Proxy and follow the directions on the read me. 
 2. On the "m3u-playlist-proxy" page, fill in the info for playlist.m3u and add the required headers.
