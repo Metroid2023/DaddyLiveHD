@@ -1,3 +1,5 @@
+Only playlist-2-headers.m3u8 works but you can't use it to record. You need a proxy to make it work to record.
+
 To use the playlist files, you need to use "m3u-playlist-proxy"
 1. Next, download M3U Playlist Proxy and follow the directions on the read me. 
 2. On the "m3u-playlist-proxy" page, fill in the info for playlist.m3u and add the required headers.
