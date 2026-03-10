@@ -14,7 +14,7 @@ This is a standard M3U playlist. To use it, ensure your IPTV application support
 #### Required Headers
 - **Referer:** `https://adffdafdsafds.sbs/`
 - **Origin:** `https://adffdafdsafds.sbs`
-- **User-Agent:** `Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1`
+- **User-Agent:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36`
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - **dlstreams:** `https://tinyurl.com/4ka32474`
 - To use dlstreams playlist, you need EasyProxy to make it work: https://github.com/stremio-manager/EasyProxy
