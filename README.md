@@ -12,8 +12,8 @@ This is a standard M3U playlist. To use it, ensure your IPTV application support
 - **Test:** `https://tinyurl.com/r6bsd7t2`
 
 #### Required Headers
-- **Referer:** `https://adffdafdsafds.sbs/`
-- **Origin:** `https://adffdafdsafds.sbs`
+- **Referer:** `https://freestyleridesx.lol/`
+- **Origin:** `https://freestyleridesx.lol`
 - **User-Agent:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36`
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - **dlstreams:** `https://tinyurl.com/4ka32474`
