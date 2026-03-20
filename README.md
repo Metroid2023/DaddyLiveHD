@@ -12,9 +12,15 @@ This is a standard M3U playlist. To use it, ensure your IPTV application support
 - **Test:** `https://tinyurl.com/r6bsd7t2`
 
 #### Required Headers
-- **Referer:** `https://freestyleridesx.lol/`
-- **Origin:** `https://freestyleridesx.lol`
-- **User-Agent:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36`
+#### 1.
+- **Referer:** `https://enviromentalspace.sbs/`
+- **Origin:** `https://enviromentalspace.sbs`
+- **User-Agent:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0`
+#### 2.
+- **Referer:** `https://www.ksohls.ru/`
+- **Origin:** `https://www.ksohls.ru`
+- **User-Agent:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0`
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - **dlstreams:** `https://tinyurl.com/4ka32474`
 - To use dlstreams playlist, you need EasyProxy to make it work: https://github.com/stremio-manager/EasyProxy
