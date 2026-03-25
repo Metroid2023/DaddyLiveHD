@@ -13,8 +13,8 @@ This is a standard M3U playlist. To use it, ensure your IPTV application support
 
 #### Required Headers
 #### 1.
-- **Referer:** `https://enviromentalspace.sbs/`
-- **Origin:** `https://enviromentalspace.sbs`
+- **Referer:** `https://adffdafdsafds.sbs/`
+- **Origin:** `https://adffdafdsafds.sbs`
 - **User-Agent:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0`
 #### 2.
 - **Referer:** `https://www.ksohls.ru/`
