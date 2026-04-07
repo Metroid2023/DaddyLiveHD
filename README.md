@@ -10,7 +10,6 @@ This is a standard M3U playlist. To use it, ensure your IPTV application support
 - **playlist.m3u8:** `https://tinyurl.com/yc3b4cbn`
 
 #### Required Headers
-#### 1.
 - **Referer:** `https://embedkclx.sbs/`
 - **Origin:** `https://embedkclx.sbs`
 - **User-Agent:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36`
