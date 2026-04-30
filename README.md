@@ -13,6 +13,11 @@ This is a standard M3U playlist. To use it, ensure your IPTV application support
 - **Referer:** `https://embedkclx.sbs/`
 - **Origin:** `https://embedkclx.sbs`
 - **User-Agent:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36`
+
+#### Required Headers - 2
+- **Referer:** `https://liveon4.zip/`
+- **Origin:** `https://liveon4.zip`
+- **User-Agent:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36`
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### dlstreams.m3u8 playlist
 To use dlstreams.m3u8 playlist, you need EasyProxy to make it work! https://github.com/realbestia1/EasyProxy
