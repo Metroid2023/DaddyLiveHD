@@ -1,4 +1,4 @@
-To use the playlist files, you need to use "m3u-playlist-proxy"
+To use the playlist-2 files, you need to use "m3u-playlist-proxy"
 1. Next, download M3U Playlist Proxy and follow the directions on the read me. 
 2. On the "m3u-playlist-proxy" page, fill in the info for playlist.m3u and add the required headers.
 
@@ -9,7 +9,7 @@ This is a standard M3U playlist. To use it, ensure your IPTV application support
 
 - **playlist.m3u8:** `https://tinyurl.com/yc3b4cbn`
 
-#### Required Headers
+#### Required Headers for playlist-2.m3u8
 - **Referer:** `https://donis.jimpenopisonline.online/`
 - **Origin:** `https://donis.jimpenopisonline.online`
 - **User-Agent:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36`
