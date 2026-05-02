@@ -1,0 +1,103 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="CANADA" tvg-id="CBC.(CBLT).Toronto,.ON.ca" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cbc.png",CBC Canada
+
+
+
+https://zhdcdn3.zip/live/STa77adc08addf991.m3u8
+
+#EXTINF:-1  tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" group-title="DaddyLive USA",Cartoon Network
+
+
+https://zhdcdn3.zip/live/ST3a60c2c1c9af6a1.m3u8
+
+#EXTINF:-1  tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="DaddyLive USA",Cinemax USA
+
+https://zhdcdn3.zip/live/STc83e01ba1924c55.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Discovery.Family.Channel.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/discovery-family.png",Discovery Family
+
+
+https://zhdcdn3.zip/live/STd6fc40844dedb72.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/disney-junior.png",Disney JR
+
+https://zhdcdn3.zip/live/ST2ab1c13a0ef7adb.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/disney-xd.png",Disney XD
+
+
+https://zhdcdn3.zip/live/STf0d4f06a65feb58.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/hbo-comedy-us.png",HBO Comedy USA
+
+
+https://zhdcdn3.zip/live/ST2ce8815af305b94.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="HBO.Drama.(HBO.3).-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/hbo-drama-us.png",HBO Drama USA
+
+
+https://zhdcdn3.zip/live/STf91502e8da8406d.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/hbo-usa.png",HBO USA
+
+
+https://zhdcdn3.zip/live/ST58b89cc9bad9ac3.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="HBO.Movies.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/hbo-movies-usa.png",HBO Movies USA
+
+
+https://zhdcdn3.zip/live/STac617f82b794854.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="HBO.Hits.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/hbo-hits-usa.png",HBO Hits USA
+
+https://zhdcdn3.zip/live/ST7bc2f0cb3c33d9b.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Nicktoons.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nicktoons.png",Nicktoons
+
+
+https://zhdcdn3.zip/live/ST18098aceb836db2.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-2-usa.png",Showtime 2 USA (SHO2) USA
+
+
+https://zhdcdn3.zip/live/ST5eb34170899ae0b.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.Extreme.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-extreme-usa.png",Showtime Extreme USA
+
+
+https://zhdcdn3.zip/live/STf1fc8fbab923dbd.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.FamilyZone.(East).(SHOFe).us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-family-zone-usa.png",Showtime Family Zone (SHO Family Zone) USA
+
+
+https://zhdcdn3.zip/live/STe947aa02814530a.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-next-usa.png",Showtime Next (SHO Next) USA
+
+
+https://zhdcdn3.zip/live/ST5ea93a033452e38.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.Showcase.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-showcase-usa.png",Showtime Showcase USA
+
+
+https://zhdcdn3.zip/live/ST9ad0bc76095b807.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-usa.png",Showtime USA
+
+
+https://zhdcdn3.zip/live/ST2ec052bf674cec1.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.Women.HD.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-women-usa.png",Showtime Women USA
+
+
+https://zhdcdn3.zip/live/ST9f14d0b7593c738.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="TMC.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tmc-channel-usa.png",TMC Channel USA
+
+
+https://zhdcdn3.zip/live/STb6beb533b872e24.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="TeenNick.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/teennick-us.png",TeenNick
+
+https://zhdcdn3.zip/live/STb2882a72afef534.m3u8
