@@ -16,5 +16,3 @@ This is a standard M3U playlist. To use it, ensure your IPTV application support
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### dlstreams.m3u8 playlist
 To use dlstreams.m3u8 playlist, you need EasyProxy to make it work! https://github.com/realbestia1/EasyProxy
-
-dlstreams.m3u8 is not working right now with EasyProxy.
