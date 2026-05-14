@@ -15,7 +15,7 @@ This is a standard M3U playlist. To use it, ensure your IPTV application support
 - **User-Agent:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36`
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### dlhd.m3u8 playlist
-To use dlhd.m3u8 playlist, you need EasyProxy to make it work! https://github.com/realbestia1/EasyProxy
+- To use dlhd.m3u8 playlist, you need EasyProxy to make it work! https://github.com/realbestia1/EasyProxy
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Note about playlist-2.m3u8
 Only m3u-playlist-proxy works for playlist-2.m3u8 at the moment. I need to figure out how to extract the full playlist from DaddyLiveHD: https://dlhd.pk/24-7-channels.php
