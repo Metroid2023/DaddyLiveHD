@@ -20,3 +20,5 @@ This is a standard M3U playlist. To use it, ensure your IPTV application support
 #### Note about playlist-2.m3u8
 Only m3u-playlist-proxy works for playlist-2.m3u8 at the moment. I need to figure out how to extract the full playlist from DaddyLiveHD: https://dlhd.pk/24-7-channels.php
 to make it work with m3u-playlist-proxy.
+
+Playlist-2.m3u8 doesn't work anymore with m3u-playlist-proxy because now it uses token at the end of the m3u8 url.
