@@ -1,0 +1,103 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="CANADA" tvg-id="CBC.(CBLT).Toronto,.ON.ca" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cbc.png",CBC Canada
+
+
+
+https://xameleon.phantemlis.top/four/secure/1271bc54dc852317ff1c30db7d27df78/1785041817/premium832/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" group-title="DaddyLive USA",Cartoon Network
+
+
+https://xameleon.phantemlis.top/one/secure/6a90f3db6a03e6a946d97db579cb5d84/1785042273/premium339/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="DaddyLive USA",Cinemax USA
+
+https://xameleon.phantemlis.top/three/secure/95398f807705528684af1db95d02e8ac/1785042327/premium374/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Discovery.Family.Channel.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/discovery-family.png",Discovery Family
+
+
+https://xameleon.phantemlis.top/four/secure/f55ae23765cbbf7164797944c2162f63/1785042368/premium657/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/disney-junior.png",Disney JR
+
+https://xameleon.phantemlis.top/one/secure/b5edd47e11cb6ea88baa5d9db6685e5c/1785042408/premium652/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/disney-xd.png",Disney XD
+
+
+https://xameleon.phantemlis.top/three/secure/fe8ba5458d08d19b7df45370034965f6/1785042443/premium314/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/hbo-comedy-us.png",HBO Comedy USA
+
+
+https://xameleon.phantemlis.top/one/secure/cfff4ff6c75e865f7bd2b554bd59b707/1785042481/premium690/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="HBO.Drama.(HBO.3).-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/hbo-drama-us.png",HBO Drama USA
+
+
+
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/hbo-usa.png",HBO USA
+
+
+https://xameleon.phantemlis.top/three/secure/dffe8f437e152b82a151601b0cc6c77c/1785042537/premium321/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="HBO.Movies.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/hbo-movies-usa.png",HBO Movies USA
+
+
+https://xameleon.phantemlis.top/one/secure/476476ccd0aa157a75aed1c92e51460c/1785042572/premium694/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="HBO.Hits.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/hbo-hits-usa.png",HBO Hits USA
+
+https://xameleon.phantemlis.top/one/secure/df42a11ca0faa19d6ea599883001cd24/1785042611/premium689/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Nicktoons.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nicktoons.png",Nicktoons
+
+
+https://xameleon.phantemlis.top/four/secure/70a21c8fafcfef6b2615c7e158cd0ff6/1785042650/premium649/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-2-usa.png",Showtime 2 USA (SHO2) USA
+
+
+https://xameleon.phantemlis.top/three/secure/8fda96a391d967153e94c2763f8475d0/1785042694/premium792/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.Extreme.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-extreme-usa.png",Showtime Extreme USA
+
+
+
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.FamilyZone.(East).(SHOFe).us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-family-zone-usa.png",Showtime Family Zone (SHO Family Zone) USA
+
+https://xameleon.phantemlis.top/one/secure/ee58739e98744ce08f6ae8f095644563/1785042749/premium795/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-next-usa.png",Showtime Next (SHO Next) USA
+
+
+
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.Showcase.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-showcase-usa.png",Showtime Showcase USA
+
+
+https://xameleon.phantemlis.top/three/secure/f4b4564c47d9b3cbbfb2df4a74057cee/1785042836/premium793/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-usa.png",Showtime USA
+
+
+https://xameleon.phantemlis.top/two/secure/0779f45b79fb4a6c27daaf5f76ae4742/1785042869/premium333/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Showtime.Women.HD.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-women-usa.png",Showtime Women USA
+
+
+
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="TMC.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tmc-channel-usa.png",TMC Channel USA
+
+
+
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="TeenNick.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/teennick-us.png",TeenNick
+
+https://xameleon.phantemlis.top/four/secure/dd7fd85b6670a7d8ff148e8d6e39cc4d/1785043214/premium650/index.m3u8
