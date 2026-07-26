@@ -8,8 +8,8 @@ To use the playlist-2 files, you need to use "m3u-playlist-proxy"
 This is a standard M3U playlist. To use it, ensure your IPTV application supports custom headers, specifically `Referer`, `Origin`, and `User-Agent`. These headers are required to access the streams, and omitting them will result in a 403 error.
 
 #### Required Headers for playlist-2.m3u8
-- **Referer:** `https://donis.jimpenopisonline.online/`
-- **Origin:** `https://donis.jimpenopisonline.online`
+- **Referer:** `https://hamis.romponalis.st/`
+- **Origin:** `https://hamis.romponalis.st`
 - **User-Agent:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36`
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### dlhd.m3u8 playlist
