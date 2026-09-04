@@ -12,8 +12,8 @@ This is a standard M3U playlist. To use it, ensure your IPTV application support
 - **Origin:** `https://hamis.romponalis.st`
 - **User-Agent:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36`
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#### dlstreams.m3u8 playlist
-- To use dlstreams.m3u8 playlist, you need EasyProxy to make it work! https://github.com/realbestia1/EasyProxy
+#### dlive.m3u8 playlist
+- To use dlive.m3u8 playlist, you need EasyProxy to make it work! https://github.com/realbestia1/EasyProxy
 - 1. Install EasyProxy to docker in cmd: docker run -d -p 7860:7860 -v ./data:/data --name EasyProxy ghcr.io/realbestia1/easyproxy:latest
   2. After installing EasyProxy, go to http://localhost:7860
   3. On that page, go to Playlist Builder.
