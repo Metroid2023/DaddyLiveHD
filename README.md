@@ -17,7 +17,7 @@ This is a standard M3U playlist. To use it, ensure your IPTV application support
 - 1. Install EasyProxy to docker in cmd: docker run -d -p 7860:7860 -v ./data:/data --name EasyProxy ghcr.io/realbestia1/easyproxy:latest
   2. After installing EasyProxy, go to http://localhost:7860
   3. On the main page, go to Variables Config, on that page turn on Cloudflare WARP.
-  4. On that page, go to Playlist Builder.
+  4. Next, go to Playlist Builder.
   5. Insert this url to Playlist URL: https://raw.githubusercontent.com/Metroid2023/DaddyLiveHD/refs/heads/main/dlive.m3u8 and press +
   6. Once the playlist have been Generated, copy the link from the Generated Link and use it on any player you have.
   7. In OTT Navigator or other players, change localhost:7860 to your ip:7860.
