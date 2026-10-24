@@ -8,17 +8,17 @@ To use the playlist-2 files, you need to use "m3u-playlist-proxy"
 This is a standard M3U playlist. To use it, ensure your IPTV application supports custom headers, specifically `Referer`, `Origin`, and `User-Agent`. These headers are required to access the streams, and omitting them will result in a 403 error.
 
 #### Required Headers for playlist-2.m3u8
-- **Referer:** `https://hamis.romponalis.st/`
-- **Origin:** `https://hamis.romponalis.st`
+- **Referer:** `https://dembed.st/`
+- **Origin:** `https://dembed.st`
 - **User-Agent:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36`
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#### dlive.m3u8 playlist
-- To use dlive.m3u8 playlist, you need EasyProxy to make it work! https://github.com/realbestia1/EasyProxy
+#### thedaddy.m3u8 playlist
+- To use thedaddy.m3u8 playlist, you need EasyProxy to make it work! https://github.com/realbestia1/EasyProxy
 - 1. Install EasyProxy to docker in cmd: docker run -d -p 7860:7860 -v ./data:/data --name EasyProxy ghcr.io/realbestia1/easyproxy:latest
   2. After installing EasyProxy, go to http://localhost:7860
-  3. On the main page, go to Variables Config, on that page turn on Cloudflare WARP.
+  3. On the main page, go to Admin Config, on that page turn on Cloudflare WARP.
   4. Next, go to Playlist Builder.
-  5. Insert this url to Playlist URL: https://raw.githubusercontent.com/Metroid2023/DaddyLiveHD/refs/heads/main/dlive.m3u8 and press +
+  5. Insert this url to Playlist URL: https://raw.githubusercontent.com/Metroid2023/DaddyLiveHD/refs/heads/main/thedaddy.m3u8 and press +
   6. Once the playlist have been Generated, copy the link from the Generated Link and use it on any player you have.
   7. In OTT Navigator or other players, change localhost:7860 to your ip:7860.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
